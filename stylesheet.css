@@ -1,0 +1,25 @@
+.top-wrapper{
+  background-image: url("cube.jpg");
+  background-size: cover;
+  padding-bottom: 250;
+  opacity: 0.6;
+  text-align: center;
+
+}
+
+h1{color:#02ccba;}
+
+.link_list{
+  width: 100;
+}
+
+.link_list li{
+  list-style: none;
+  padding:20px 20px;
+  color: black;
+
+}
+
+.link_list a{
+background-color: #55acee;
+}
