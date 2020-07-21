@@ -6,14 +6,13 @@ body{
 
 .top-wrapper{
   background-size: cover;
-  padding-bottom: 250;
+  padding-bottom: 250px;
   opacity: 0.6;
 }
 
 h1{color:#02ccba;}
 
 h2{font-size: 16px;}
-
 
 
 .link_list li{
